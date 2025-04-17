@@ -9,7 +9,7 @@
       "TWebServices/1.0.0": {
         "dependencies": {
           "T.InfoService.InfoServer": "2020.0.1.1",
-          "T.InfoService.Service": "2020.0.1.463",
+          "T.InfoService.Service": "2020.0.1.464",
           "T.Library": "2020.0.1.1"
         },
         "runtime": {
@@ -24,11 +24,11 @@
           }
         }
       },
-      "T.InfoService.Service/2020.0.1.463": {
+      "T.InfoService.Service/2020.0.1.464": {
         "runtime": {
           "T.InfoService.Service.dll": {
-            "assemblyVersion": "2020.0.1.463",
-            "fileVersion": "2020.0.1.463"
+            "assemblyVersion": "2020.0.1.464",
+            "fileVersion": "2020.0.1.464"
           }
         }
       },
@@ -173,7 +173,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "T.InfoService.Service/2020.0.1.463": {
+    "T.InfoService.Service/2020.0.1.464": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
