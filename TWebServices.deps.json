@@ -9,7 +9,7 @@
       "TWebServices/1.0.0": {
         "dependencies": {
           "T.InfoService.InfoServer": "2020.0.1.1",
-          "T.InfoService.Service": "2020.0.1.464",
+          "T.InfoService.Service": "2020.0.1.565",
           "T.Library": "2020.0.1.1"
         },
         "runtime": {
@@ -24,11 +24,11 @@
           }
         }
       },
-      "T.InfoService.Service/2020.0.1.464": {
+      "T.InfoService.Service/2020.0.1.565": {
         "runtime": {
           "T.InfoService.Service.dll": {
-            "assemblyVersion": "2020.0.1.464",
-            "fileVersion": "2020.0.1.464"
+            "assemblyVersion": "2020.0.1.565",
+            "fileVersion": "2020.0.1.565"
           }
         }
       },
@@ -84,7 +84,7 @@
         "runtime": {
           "System.Diagnostics.EventLog.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1024.46610"
+            "fileVersion": "8.0.1525.16413"
           }
         }
       },
@@ -173,7 +173,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "T.InfoService.Service/2020.0.1.464": {
+    "T.InfoService.Service/2020.0.1.565": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

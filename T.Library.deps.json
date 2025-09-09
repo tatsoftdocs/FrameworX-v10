@@ -10,7 +10,7 @@
       "T.Library/1.0.0": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
-          "Microsoft.Windows.Compatibility": "8.0.12",
+          "Microsoft.Windows.Compatibility": "8.0.15",
           "NETStandard.Library": "2.0.3",
           "System.Data.SqlClient": "4.9.0"
         },
@@ -80,7 +80,7 @@
           }
         }
       },
-      "Microsoft.Windows.Compatibility/8.0.12": {
+      "Microsoft.Windows.Compatibility/8.0.15": {
         "dependencies": {
           "Microsoft.Win32.Registry": "5.0.0",
           "Microsoft.Win32.Registry.AccessControl": "8.0.0",
@@ -92,12 +92,12 @@
           "System.Data.Odbc": "8.0.1",
           "System.Data.OleDb": "8.0.1",
           "System.Data.SqlClient": "4.9.0",
-          "System.Diagnostics.EventLog": "8.0.1",
+          "System.Diagnostics.EventLog": "8.0.2",
           "System.Diagnostics.PerformanceCounter": "8.0.1",
           "System.DirectoryServices": "8.0.0",
           "System.DirectoryServices.AccountManagement": "8.0.1",
-          "System.DirectoryServices.Protocols": "8.0.0",
-          "System.Drawing.Common": "8.0.12",
+          "System.DirectoryServices.Protocols": "8.0.1",
+          "System.Drawing.Common": "8.0.15",
           "System.IO.FileSystem.AccessControl": "5.0.0",
           "System.IO.Packaging": "8.0.1",
           "System.IO.Pipes.AccessControl": "5.0.0",
@@ -214,14 +214,14 @@
           }
         }
       },
-      "System.Diagnostics.EventLog/8.0.1": {
+      "System.Diagnostics.EventLog/8.0.2": {
         "dependencies": {
           "System.Security.Principal.Windows": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/System.Diagnostics.EventLog.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1024.46610"
+            "fileVersion": "8.0.1525.16413"
           }
         }
       },
@@ -257,22 +257,22 @@
           }
         }
       },
-      "System.DirectoryServices.Protocols/8.0.0": {
+      "System.DirectoryServices.Protocols/8.0.1": {
         "dependencies": {
           "System.Security.Principal.Windows": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/System.DirectoryServices.Protocols.dll": {
             "assemblyVersion": "4.0.0.0",
-            "fileVersion": "8.0.23.53103"
+            "fileVersion": "8.0.1525.16413"
           }
         }
       },
-      "System.Drawing.Common/8.0.12": {
+      "System.Drawing.Common/8.0.15": {
         "runtime": {
           "lib/netstandard2.0/System.Drawing.Common.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1224.60306"
+            "fileVersion": "8.0.1525.16501"
           }
         }
       },
@@ -639,7 +639,7 @@
       },
       "System.ServiceProcess.ServiceController/8.0.1": {
         "dependencies": {
-          "System.Diagnostics.EventLog": "8.0.1"
+          "System.Diagnostics.EventLog": "8.0.2"
         },
         "runtime": {
           "lib/netstandard2.0/System.ServiceProcess.ServiceController.dll": {
@@ -798,12 +798,12 @@
       "path": "microsoft.win32.systemevents/8.0.0",
       "hashPath": "microsoft.win32.systemevents.8.0.0.nupkg.sha512"
     },
-    "Microsoft.Windows.Compatibility/8.0.12": {
+    "Microsoft.Windows.Compatibility/8.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Q+ge4Kuo0X6FioH+SY2E2VE5QNLkuJF6maOfXi3QHurFXzBZswbTN2eYCQutui3ygtRVvrzzkYQIMdUBnrOhow==",
-      "path": "microsoft.windows.compatibility/8.0.12",
-      "hashPath": "microsoft.windows.compatibility.8.0.12.nupkg.sha512"
+      "sha512": "sha512-Qsg3mkVDOmzRecUQBNMgCmOXVnyHQsAe4gczjbB4ZZrJGBGaT4DdG7kzLsd93TNefexMc4FQ3gCO7nodiXj3qw==",
+      "path": "microsoft.windows.compatibility/8.0.15",
+      "hashPath": "microsoft.windows.compatibility.8.0.15.nupkg.sha512"
     },
     "NETStandard.Library/2.0.3": {
       "type": "package",
@@ -910,12 +910,12 @@
       "path": "system.data.sqlclient/4.9.0",
       "hashPath": "system.data.sqlclient.4.9.0.nupkg.sha512"
     },
-    "System.Diagnostics.EventLog/8.0.1": {
+    "System.Diagnostics.EventLog/8.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-n1ZP7NM2Gkn/MgD8+eOT5MulMj6wfeQMNS2Pizvq5GHCZfjlFMXV2irQlQmJhwA2VABC57M0auudO89Iu2uRLg==",
-      "path": "system.diagnostics.eventlog/8.0.1",
-      "hashPath": "system.diagnostics.eventlog.8.0.1.nupkg.sha512"
+      "sha512": "sha512-hH83Rt+x3eezRIsyCgZ15vfulTjphrzZmaT/g2y0+AS6hjvcWHGK0y9lBofgtGZQugXxDZz26JD9U8LuU4lI8g==",
+      "path": "system.diagnostics.eventlog/8.0.2",
+      "hashPath": "system.diagnostics.eventlog.8.0.2.nupkg.sha512"
     },
     "System.Diagnostics.PerformanceCounter/8.0.1": {
       "type": "package",
@@ -938,19 +938,19 @@
       "path": "system.directoryservices.accountmanagement/8.0.1",
       "hashPath": "system.directoryservices.accountmanagement.8.0.1.nupkg.sha512"
     },
-    "System.DirectoryServices.Protocols/8.0.0": {
+    "System.DirectoryServices.Protocols/8.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-puwJxURHDrYLGTQdsHyeMS72ClTqYa4lDYz6LHSbkZEk5hq8H8JfsO4MyYhB5BMMxg93jsQzLUwrnCumj11UIg==",
-      "path": "system.directoryservices.protocols/8.0.0",
-      "hashPath": "system.directoryservices.protocols.8.0.0.nupkg.sha512"
+      "sha512": "sha512-wfD1JacXCHBHRQh8Tj7L0WnQjlGdb2DdH22lNGMsJSFqYt85XOQJ4uDB1NC2ht5wVw54bPPLgN7a6CfFfT24OQ==",
+      "path": "system.directoryservices.protocols/8.0.1",
+      "hashPath": "system.directoryservices.protocols.8.0.1.nupkg.sha512"
     },
-    "System.Drawing.Common/8.0.12": {
+    "System.Drawing.Common/8.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mZrI0KKFAZO8gWaARhdaJblMUNEeHMlPsFa/nRS4j4EenYP/+f8F2bzu4yb0Co7WYuJ/w/D8d/zW4KGCdYJCyQ==",
-      "path": "system.drawing.common/8.0.12",
-      "hashPath": "system.drawing.common.8.0.12.nupkg.sha512"
+      "sha512": "sha512-qe9ADU4LlSDEluFw6UCvnhUX43iu1rfIi4u3cpQ37DjFDbwyWGRrDM5gypYj1IQuAVRnMHqOyFbCjtCvijN2cA==",
+      "path": "system.drawing.common/8.0.15",
+      "hashPath": "system.drawing.common.8.0.15.nupkg.sha512"
     },
     "System.Formats.Asn1/8.0.1": {
       "type": "package",

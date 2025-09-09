@@ -1,7 +1,5 @@
 {
   "appSettings": {
-    "enableLog": false,
-    "portNumber": 10108,
     "Services": {
       "Service1": "ProjectServer,T.InfoService.Service,T.InfoService.Service.dll"
     },
@@ -9,6 +7,7 @@
       "Service2": "T.Witsml.Service,fx-10/T.Witsml.Service.dll"
     },
     "tRPCServer": {
+      "enableLog": false,
       "CertFileName": "",
       "CertPass": "",
       "CertHash": "",
