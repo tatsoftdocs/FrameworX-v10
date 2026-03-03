@@ -12,7 +12,7 @@
           "Microsoft.Bcl.AsyncInterfaces": "8.0.0",
           "Microsoft.Windows.Compatibility": "8.0.19",
           "NETStandard.Library": "2.0.3",
-          "System.Text.Json": "8.0.0.0",
+          "Newtonsoft.Json": "13.0.0.0",
           "T.Library": "2020.1.0.0"
         },
         "runtime": {
@@ -734,11 +734,11 @@
           }
         }
       },
-      "System.Text.Json/8.0.0.0": {
+      "Newtonsoft.Json/13.0.0.0": {
         "runtime": {
-          "System.Text.Json.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1024.46610"
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
           }
         }
       },
@@ -747,14 +747,6 @@
           "T.Library.dll": {
             "assemblyVersion": "2020.1.0.0",
             "fileVersion": "2020.1.0.0"
-          }
-        }
-      },
-      "System.Text.Encodings.Web/8.0.0.0": {
-        "runtime": {
-          "System.Text.Encodings.Web.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
           }
         }
       }
@@ -1207,17 +1199,12 @@
       "path": "system.web.services.description/4.10.3",
       "hashPath": "system.web.services.description.4.10.3.nupkg.sha512"
     },
-    "System.Text.Json/8.0.0.0": {
+    "Newtonsoft.Json/13.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "T.Library/2020.1.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Text.Encodings.Web/8.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
