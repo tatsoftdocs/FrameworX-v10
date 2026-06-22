@@ -52,7 +52,7 @@
         "runtime": {
           "System.Management.dll": {
             "assemblyVersion": "4.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.826.23019"
           }
         }
       },
@@ -60,7 +60,7 @@
         "runtime": {
           "System.Diagnostics.EventLog.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.826.23019"
           }
         }
       },
@@ -68,7 +68,7 @@
         "runtime": {
           "System.Diagnostics.PerformanceCounter.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.826.23019"
           }
         }
       },
@@ -92,7 +92,7 @@
         "runtime": {
           "System.CodeDom.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.826.23019"
           }
         }
       }
