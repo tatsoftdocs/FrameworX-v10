@@ -40,11 +40,11 @@
           }
         }
       },
-      "MessagePack/3.1.7.0": {
+      "MessagePack/3.1.4.0": {
         "runtime": {
           "MessagePack.dll": {
-            "assemblyVersion": "3.1.7.0",
-            "fileVersion": "3.1.7.0"
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.1.4.0"
           }
         }
       },
@@ -72,11 +72,11 @@
           }
         }
       },
-      "MessagePack.Annotations/3.1.7.0": {
+      "MessagePack.Annotations/3.1.4.0": {
         "runtime": {
           "MessagePack.Annotations.dll": {
-            "assemblyVersion": "3.1.7.0",
-            "fileVersion": "3.1.7.0"
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.1.4.0"
           }
         }
       },
@@ -121,7 +121,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MessagePack/3.1.7.0": {
+    "MessagePack/3.1.4.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -141,7 +141,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MessagePack.Annotations/3.1.7.0": {
+    "MessagePack.Annotations/3.1.4.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
