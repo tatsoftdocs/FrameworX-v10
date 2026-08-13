@@ -22,16 +22,11 @@
       }
     },
     "SolutionCenterApi": {
-      "Enabled": true,
-      "AcceptRiskOnOldBuild": true,
+      "Enabled": false,
+      "AcceptRiskOnOldBuild": false,
       "Issuer": "https://api.example.com",
       "Audience": "solutioncenter",
-      "ServiceAccountKeys": [
-        {
-          "Kid": "test-key-1",
-          "Secret": "dGVzdC1zZWNyZXQtZm9yLWxvY2FsLXNtb2tlLW9ubHk="
-        }
-      ]
+      "ServiceAccountKeys": []
     }
 
   }
